@@ -5,6 +5,7 @@
 This is my first time using Gatsby for my personal site. It'll be coded using JavaScript, ReactJS, GraphQL, SCSS and deployed on Netlify. If you have any recommendations or improvements, feel free to message me. Let's build something cool!
 
 cheers,
+
 ~tim
 
 make progress or make excuses
