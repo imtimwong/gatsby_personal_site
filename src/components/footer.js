@@ -13,7 +13,7 @@ const Footer = () => {
             //marginTop: `1.45rem`,
             //alignItems: 'center',
             padding: '0.3em 10px',//'0.1em 10px' need to check this but should be fine
-            
+            boxShadow: '0 -10px 15px rgba(50, 50, 93, 0.2)'
         }}>
 
         <div style={{

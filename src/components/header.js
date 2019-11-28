@@ -23,6 +23,8 @@ const Header = ({ siteTitle }) => (
 //'-webkit-linear-gradient(to right, #F27121, #E94057, #8A2387)', // eslint-disable-next-line
           //background: 'linear-gradient(to right, #F27121, #E94057, #8A2387)',
           padding: '0.1em 10px',
+          
+          boxShadow: '0 10px 15px rgba(50, 50, 93, 0.2)'
     }}
   >
     
@@ -34,8 +36,8 @@ const Header = ({ siteTitle }) => (
             margin: '0 auto',
             //padding: `0.1rem 1.0875rem`,//from 1.45rem
             display: 'flex',
-            justifyContent: 'space-between',//first item at the srtat and last item at the end
             flexWrap: 'wrap',
+            justifyContent: 'space-between',//first item at the srtat and last item at the end
             alignItems: 'center',
           }}
         >
@@ -54,7 +56,7 @@ const Header = ({ siteTitle }) => (
         <div //className="menu-links"//seems like not useful
         >
           <Link to="/now">Now</Link>
-          <Link to="//projects">Projects</Link>
+          <Link to="/projects">Projects</Link>
           {/*<Link to="/buy-tim-coffee">Coffee</Link>
           <Link to="/contact">So, call me maybe?</Link>
         <Link to="/writing">Writing</Link>*/}
