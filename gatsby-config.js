@@ -3,6 +3,7 @@ module.exports = {
     title: `Tim Wong`,
     description: `Data Engineer`,
     author: `@bytimwong`,
+    siteUrl: 'https://www.bytimwong.com'
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -15,7 +16,7 @@ module.exports = {
     },
     `gatsby-transformer-sharp`,
     //'gatsby-transformer-remark',
-    //`gatsby-plugin-robots-txt`, need to install plugin
+    `gatsby-plugin-robots-txt`,
     `gatsby-plugin-sass`,
     `gatsby-plugin-sharp`,
     {
