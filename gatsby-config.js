@@ -16,7 +16,14 @@ module.exports = {
     },
     `gatsby-transformer-sharp`,
     //'gatsby-transformer-remark',
-    `gatsby-plugin-robots-txt`,
+    {
+      resolve: 'gatsby-plugin-robots-txt',
+      options: {
+        host: 'https://www.bytimwong.com',
+        sitemap: 'https://www.bytimwong.com/sitemap.xml',
+        policy: [{ userAgent: 'ia_archiver', disallow: '/' }]
+      },
+    },
     `gatsby-plugin-sass`,
     `gatsby-plugin-sharp`,
     {

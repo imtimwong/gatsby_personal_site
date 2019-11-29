@@ -11,6 +11,7 @@ const Header = ({ siteTitle }) => (
       //background: 'linear-gradient(to right, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1)',
       //background: 'linear-gradient(to right, #845ec2, #6c6ccd, #5279d3, #3384d6, #008dd5)',
       background: 'linear-gradient(to right, #845ec2, #7862c7, #6b66ca, #5c6ace, #4b6ed0, #3874d0, #2279cf, #007ecc, #0085c4, #0089b8, #008ca9, #008e9b)',
+      ////THIS ONE background: 'transparent',
       marginBottom: `1.45rem`,
       
 
@@ -24,7 +25,7 @@ const Header = ({ siteTitle }) => (
           //background: 'linear-gradient(to right, #F27121, #E94057, #8A2387)',
           padding: '0.1em 10px',
           
-          boxShadow: '0 10px 15px rgba(50, 50, 93, 0.2)'
+          boxShadow: '0 3px 15px rgba(50, 50, 93, 0.2)'
     }}
   >
     
@@ -46,6 +47,8 @@ const Header = ({ siteTitle }) => (
           to="/"
           style={{
             color: `white`,
+            // THIS ONE color: '#1c3ed3',
+            color : 'linear-gradient(to right, #845ec2, #7862c7, #6b66ca, #5c6ace, #4b6ed0, #3874d0, #2279cf, #007ecc, #0085c4, #0089b8, #008ca9, #008e9b)',
             textDecoration: `none`,
           }}
         >
