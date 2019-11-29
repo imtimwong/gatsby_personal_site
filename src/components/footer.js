@@ -2,6 +2,8 @@ import React from "react"
 //import { Link } from "gatsby"
 //import { FaTwitter,FaDev, FaGithub, FaCoffee, FaEnvelope } from 'react-icons/fa';
 import { FaTwitter,FaDev, FaGithub, FaEnvelope } from 'react-icons/fa';
+
+import { FiGithub,FiTwitter,FiMail } from "react-icons/fi"
 import './footer.scss'
 
 const Footer = () => {
@@ -10,6 +12,7 @@ const Footer = () => {
         <footer className = "footer-fixed"
         style={{
             background: 'linear-gradient(to right, #845ec2, #7862c7, #6b66ca, #5c6ace, #4b6ed0, #3874d0, #2279cf, #007ecc, #0085c4, #0089b8, #008ca9, #008e9b)',
+            ///this one background: 'white',
             //marginTop: `1.45rem`,
             //alignItems: 'center',
             padding: '0.3em 10px',//'0.1em 10px' need to check this but should be fine
