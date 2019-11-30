@@ -22,7 +22,7 @@ const IndexPage = () => (
         <p>I've been working in the Data Warehousing field for 6.5 years. </p>
         <p>Currently looking for opportunities in Data Engineering. <br />
         Drop me a message!
-        <a style = {{fontSize: "1.2em", position: "relative", top: "5px", left: "5px", color:"#4b6ed0"}} href="mailto:tim@bytimwong.com" 
+        <a style = {{fontSize: "1.2em", position: "relative", top: "5px", left: "5px", color:"#4b6ed0"}} href="mailto:bytimwong@gmail.com" 
         target="_blank" rel="noopener noreferrer"><FaEnvelope /></a></p>
 
         

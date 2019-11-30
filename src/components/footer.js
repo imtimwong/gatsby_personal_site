@@ -56,7 +56,7 @@ const Footer = () => {
                     <li><a href="https://dev.to/timwong" target="_blank" rel="noopener noreferrer"><FaDev /></a></li>
                     <li><a href="https://github.com/imtimwong" target="_blank" rel="noopener noreferrer"><FaGithub /></a></li>
                     {/*<li><Link to="/buy-tim-coffee"><FaCoffee /></Link></li>*/}
-                    <li><a href="mailto:tim@bytimwong.com" target="_blank" rel="noopener noreferrer"><FaEnvelope /></a></li>
+                    <li><a href="mailto:bytimwong@gmail.com" target="_blank" rel="noopener noreferrer"><FaEnvelope /></a></li>
                 </ul>
             
                 </div>
