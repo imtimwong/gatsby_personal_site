@@ -10,14 +10,14 @@ import { FaEnvelope } from 'react-icons/fa';
 
 const IndexPage = () => (
   <Layout>
-    <SEO title="Tim Wong | Data Engineer" />
+    <SEO title="Data Engineer" />
     <div>
       <h1>Hey, I'm Tim</h1>
       
     </div>
     <div className = "home-all">
       <div className = "home-content">
-        <h3>ETL developer | Data Engineer</h3>
+        <h3>Data Engineer | ETL developer</h3>
 
         <p>I've been working in the Data Warehousing field for 6.5 years. </p>
         <p>Currently looking for opportunities in Data Engineering. <br />
