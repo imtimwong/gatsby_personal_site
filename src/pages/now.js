@@ -9,7 +9,7 @@ const NowPage = () => (
   <Layout>
     <SEO title="Now" />
     <h1>What am I up to now?</h1>
-    <h2>October 12th, 2019</h2>
+    <h2>September 19th, 2020</h2>
     <div>
     
     <ul //need to add styling 
