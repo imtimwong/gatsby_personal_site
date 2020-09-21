@@ -22,7 +22,7 @@ const NowPage = () => (
       <li><b>Movies: </b>Is Tenet good?</li>
       <li><b>Series: </b>Not binging at the moment</li>
       <li><b>Listening to: </b>17 år by Veronica Maggio, Drops of Jupyter by Taylor Swift, Tik Tok by Kesha(yes, it's a song)</li>
-      <li><b>Recent jokes: </b>JSON Derulllllooo!</li>
+      <li><b>Recent jokes: </b>JSON Derullllloo!</li>
     </ul>
     
     </div>
