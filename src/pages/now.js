@@ -18,10 +18,10 @@ const NowPage = () => (
       <li><b>Current Projects: </b>This site :) and Twitter sentiment analysis</li>
       <li><b>Current challenges: </b>#100DaysOfCode, #30DaysOfDiscipline</li>
       <li><b>Learning about: </b>React, Gatsby, GraphQL, Spark, Hadoop, Python</li>
-      <li><b>My curious mind: </b>Thinking about a ML project to start off with</li>
-      <li><b>Movies: </b>Can't wait for Zombie Land 2 to be out</li>
-      <li><b>Series: </b>Silicon Valley season 6</li>
-      <li><b>Listening to: </b>Taylor Swift's Lover album, Some Swedish pop songs, Dancing in the Moonlight by Toploader</li>
+      <li><b>My curious mind: </b>Why are you at my site? haha ... jokes.</li>
+      <li><b>Movies: </b>Is Tenet good?</li>
+      <li><b>Series: </b>Not binging at the moment</li>
+      <li><b>Listening to: </b>17 år by Veronica Maggio, Drops of Jupyter by Taylor Swift, Tik Tok by Kesha(yes, it's a song)</li>
       <li><b>Recent jokes: </b>JSON Derullllloooo!</li>
     </ul>
     
