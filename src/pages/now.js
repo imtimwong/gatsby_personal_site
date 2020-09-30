@@ -9,7 +9,7 @@ const NowPage = () => (
   <Layout>
     <SEO title="Now" />
     <h1>What am I up to now?</h1>
-    <h2>September 19th, 2020</h2>
+    <h2>October 1st, 2020</h2>
     <div>
     
     <ul //need to add styling 
@@ -23,6 +23,7 @@ const NowPage = () => (
       <li><b>Series: </b>Not binging at the moment</li>
       <li><b>Listening to: </b>17 år by Veronica Maggio, Drops of Jupyter by Taylor Swift, Tik Tok by Kesha(yes, it's a song)</li>
       <li><b>Recent jokes: </b>JSON Derullllooo!</li>
+      <li><b>Events: </b>It's Hacktoberfest!!!</li>
     </ul>
     
     </div>
