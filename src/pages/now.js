@@ -23,7 +23,7 @@ const NowPage = () => (
       <li><b>Series: </b>Not binging at the moment</li>
       <li><b>Listening to: </b>17 år by Veronica Maggio, Drops of Jupyter by Taylor Swift, Tik Tok by Kesha(yes, it's a song)</li>
       <li><b>Recent jokes: </b>JSON Derullllooo!</li>
-      <li><b>Events: </b>It's Hacktoberfest!!!</li>
+      <li><b>Events: </b>It's <a href="https://hacktoberfest.digitalocean.com/" >Hacktoberfest 2020!!!</a> check it out</li>
     </ul>
     
     </div>
