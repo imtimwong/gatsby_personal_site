@@ -14,7 +14,7 @@ const ContactPage = () => (
     <p>Feel free to drop me an email at :<a style = {{fontSize: "1.2em", position: "relative", top: "5px", left: "5px", color:"#4b6ed0"}} href="mailto:bytimwong@gmail.com" 
     target="_blank" rel="noopener noreferrer"><FaEnvelope /></a></p>
 
-    <Link to="/">Go back to the homepage</Link>
+    index.js 
   </Layout>
 )
 

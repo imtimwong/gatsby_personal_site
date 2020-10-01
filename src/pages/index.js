@@ -19,7 +19,7 @@ const IndexPage = () => (
       <div className = "home-content">
         <h3>Data Engineer | ETL developer</h3>
 
-        <p>I've been working in the Data Warehousing field for 6.5 years. </p>
+        <p>I've been working in the Data Warehousing field for 7 years. </p>
         <p>Currently looking for opportunities in Data Engineering. <br />
         Drop me a message!
         <a style = {{fontSize: "1.2em", position: "relative", top: "5px", left: "5px", color:"#4b6ed0"}} href="mailto:bytimwong@gmail.com" 
